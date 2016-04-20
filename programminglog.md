@@ -1,7 +1,5 @@
 # Programming Notes
 
-## 4/5/16
-
 ### Learning Objects
 #### Literal Notation
 
