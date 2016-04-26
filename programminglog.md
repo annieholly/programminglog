@@ -1,14 +1,12 @@
 # Programming Notes
 
-### Learning Objects
-#### Literal Notation
+### Topics To Do More Research On, Understand, and Take Notes On
+##### The Object Constructor
+###### - Literal Notation vs. Bracket Notation
 
+##### React.js
+###### - Observables
 
-#### The Object Constructor
-
-var objectName = new Object();
-
-objectName.newKey = "Value1"; 
 
 ### Project Ideas
 #### Study Time Counter
@@ -28,3 +26,15 @@ This would log:
 
 #### Twitter Favorites Dashboard
 
+#### Create a Freelance Web Development Meetup Group
+
+#### All the Code Meetups Crew (ATCMC) - A Facebook Group?
+
+#### LOL tech or techgiggles
+
+#### Monthly newsletter with updates to resources page and a monthly giggle
+
+#### i need a website.com - a marketplace to standardize web page developement requests - $500 for a website to start
+##### - specific page for LA meetup groups/resources
+##### - specific page for bootcamps
+ 
