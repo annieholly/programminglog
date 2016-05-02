@@ -34,9 +34,23 @@ This would log:
 
 #### Monthly newsletter with updates to resources page and a monthly giggle
 
+#### Food app
+- saved recipes
+- i have blank in my pantry
+- cost of ingredients
+- shopping list
+- making the app healthy
+- i have one ingredient - what do i make so that i eat healthy?
+- save the ingreients you have so that the app can make suggestions
+
 #### i need a website.com - a marketplace to standardize web page developement requests - $500 for a website to start
 ##### - specific page for LA meetup groups/resources
 ##### - specific page for bootcamps
 
 #### Biphasic Sleeping App
- 
+
+#### Pinterest but for food
+- Or a easy way to add instagram favorites to an app for a "To Eat Later" list
+
+4.27
+[ ] Clean up storage on iPhone
