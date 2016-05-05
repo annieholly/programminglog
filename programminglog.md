@@ -4,9 +4,6 @@
 ##### The Object Constructor
 ###### - Literal Notation vs. Bracket Notation
 
-##### React.js
-###### - Observables
-
 
 ### Project Ideas
 #### Study Time Counter
