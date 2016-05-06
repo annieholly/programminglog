@@ -27,6 +27,8 @@ This would log:
 
 #### All the Code Meetups Crew (ATCMC) - A Facebook Group?
 
+#### An app to let groups upvote/downvote things for future topics, suggestions, etc.
+
 #### LOL tech or techgiggles
 
 #### Monthly newsletter with updates to resources page and a monthly giggle
