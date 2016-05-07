@@ -24,6 +24,7 @@ This would log:
 #### Twitter Favorites Dashboard
 
 #### Create a Freelance Web Development Meetup Group
+- $500 website
 
 #### All the Code Meetups Crew (ATCMC) - A Facebook Group?
 
@@ -56,3 +57,4 @@ This would log:
 
 5.3 
 [ ] Buy more memory for Macbook
+
